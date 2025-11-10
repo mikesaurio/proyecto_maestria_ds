@@ -23,7 +23,7 @@ Utiliza **redes neuronales con TensorFlow** para clasificación y **Random Fores
 ## 🧱 Estructura del proyecto
 
     ├── datalake/
-    │ └── bronze/ # Archivos originales descargados
+    │ ├── bronze/ # Archivos originales descargados
     │ └── gold/ # Data limpia
     ├── model/
     │ ├── baseline_model.h5
@@ -36,7 +36,7 @@ Utiliza **redes neuronales con TensorFlow** para clasificación y **Random Fores
     │ ├── metrics.json
     │ └── regression_metrics.json
     ├── laboratory/
-    │ ├── proyecto_DS.ipynb #Para reentrenar los modelos
+    │ └── proyecto_DS.ipynb #Para reentrenar los modelos
     ├── app.py # Aplicación principal de Streamlit
     ├── requirements.txt # Dependencias del proyecto
     └── README.md # Este archivo
