@@ -35,10 +35,18 @@ Utiliza **redes neuronales con TensorFlow** para clasificación y **Random Fores
     │ ├── revenue_regressor.pkl
     │ ├── metrics.json
     │ └── regression_metrics.json
+    ├── laboratory/
+    │ ├── proyecto_DS.ipynb #Para reentrenar los modelos
     ├── app.py # Aplicación principal de Streamlit
     ├── requirements.txt # Dependencias del proyecto
     └── README.md # Este archivo
 
+---
+
+## 📈 Fuente de Datos
+
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
 ---
@@ -105,7 +113,12 @@ streamlit run app.py
 ```
 ---
 
+
+## 🤖 Reentrenar el modelo
+
+Vuelve a correr la notebook proyecto_DS.ipynb para realizar los ajustes a los entrenamientos
+
 ##  🧑‍💻Contacto
-```bash
-Miguel Moran @yosoymikesaurio
-```
+
+* Miguel Moran: @yosoymikesaurio
+* Mediante github issues
