@@ -111,6 +111,10 @@ Cada modelo aplica una técnica diferente:
 ```bash
 streamlit run app.py
 ```
+
+## 🌐 Ver en linea
+
+https://proyectomaestriads-swftbu5mxo9tgpmjjggf57.streamlit.app/
 ---
 
 
